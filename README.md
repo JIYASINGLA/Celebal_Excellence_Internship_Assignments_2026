@@ -19,5 +19,4 @@ https://github.com/JIYASINGLA/celebal-sql-week2-ecommerce-superstore-analysis
 ## Week 3
 Folder: Week_3 Celebal Assignment 
 
-(Submission Date: 07 June 2026):
-
+(Submission Date: 07 June 2026)
