@@ -4,6 +4,20 @@ This repository contains all assignments completed during the Celebal Technologi
 
 ## Assignments
 
-- Week 1: Data Cleaning
-- Week 2: SQL Business Analysis
-- Week 3: SQL Advanced Analytics using Subqueries, CTEs, and Window Functions
+## Week 1
+Folder: Week 1 Celebal Assignment
+
+Original Repository:
+https://github.com/JIYASINGLA/Celebal_Week1_Assignment1_DataCleaning
+
+## Week 2
+Folder: Week 2 Celebal Assignment
+
+Original Repository:
+https://github.com/JIYASINGLA/celebal-sql-week2-ecommerce-superstore-analysis
+
+## Week 3
+Folder: Week_3 Celebal Assignment
+
+Original Repository:
+https://github.com/JIYASINGLA/Celebal-Internship-Assignments
