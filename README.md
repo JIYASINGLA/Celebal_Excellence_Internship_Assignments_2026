@@ -17,7 +17,7 @@ Original Repository (Submission Date: 01 June 2026):
 https://github.com/JIYASINGLA/celebal-sql-week2-ecommerce-superstore-analysis
 
 ## Week 3
-Folder: Week_3 Celebal Assignment
+Folder: Week_3 Celebal Assignment 
 
-Original Repository (Submission Date: 07 June 2026):
-https://github.com/JIYASINGLA/Celebal-Internship-Assignments
+(Submission Date: 07 June 2026):
+
