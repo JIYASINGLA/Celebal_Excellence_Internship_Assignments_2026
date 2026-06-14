@@ -29,6 +29,13 @@ The objective of this project is to understand Azure cloud concepts and build an
 
 Blob Storage (Source CSV) → Get Metadata → Copy Data → Blob Storage (Destination)
 
+### Features
+1. End-to-end data pipeline implementation
+2. Metadata validation using Get Metadata activity
+3. Data movement using Copy Data activity
+4. Secure access management using IAM roles
+5. Pipeline monitoring and execution tracking
+
 ## Expected Output
 
 * Successful pipeline execution
