@@ -4,7 +4,6 @@
 
 Understand Spark fundamentals and perform data cleaning, transformation, and aggregation using DataFrames.
 
----
 
 ## Assignment Tasks
 
@@ -77,7 +76,6 @@ Build a complete Spark workflow that:
 6. Aggregates data.
 7. Generates meaningful results.
 
----
 
 ## Technologies Used
 
@@ -86,7 +84,6 @@ Build a complete Spark workflow that:
 * Python
 * Google Colab
 
----
 
 ## Repository Structure
 
@@ -107,7 +104,6 @@ Week 5 Celebal Assignment/
 └── README.md
 ```
 
----
 
 ## Output
 
@@ -118,7 +114,6 @@ The repository contains:
 * Assignment report (PDF)
 * Documentation and explanations
 
----
 
 ## Brief Insights
 
