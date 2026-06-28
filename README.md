@@ -32,7 +32,13 @@ Folder: Week 4 Celebal Assignment
 Submission Date: 15 June 2026  
 
 
-### Week 
+### Week 5
 Folder: Week 5 Celebal Assignment  
 
 Submission Date: 21 June 2026  
+
+
+### Week 6
+Folder: Week 6 Celebal Assignment  
+
+Submission Date: 28 June 2026  
